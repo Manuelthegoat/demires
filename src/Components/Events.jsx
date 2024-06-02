@@ -8,7 +8,10 @@ const Events = () => {
             <p className="eventstitle">Upcoming Events</p>
             <div className="events-card">
                 <img src={image} alt="" />
+                <div className="eventstextdiv">
+
                 <p className="event-text">Chrismas Special</p>
+                </div>
             </div>
             <button className="bookevent">Book Now</button>
         </div>

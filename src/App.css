@@ -111,3 +111,18 @@
 .events{
   background-color: #003B6F;
 }
+.eventstitle{
+  color: #FFFFFF;
+  font-size: 18px;
+}
+.events-card{
+ width: 310px;
+}
+.eventstextdiv{
+  background-color: #04457F;
+  height: 62px;
+}
+.event-text{
+  color: #FFFFFF;
+  font-size: 18px;
+}
