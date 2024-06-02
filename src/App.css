@@ -110,6 +110,11 @@
 }
 .events{
   background-color: #003B6F;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  text-align: center;
 }
 .eventstitle{
   color: #FFFFFF;
