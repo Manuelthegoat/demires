@@ -90,6 +90,7 @@
 .locationmaindiv{
   background-color: #003B6F;
   padding: 1rem;
+  border-bottom: none;
 }
 .locatitle{
   color: #FFFFFF;
@@ -118,7 +119,8 @@
   justify-content: center;
   align-items: center;
   width: 100%;
-  text-align: center;
+  padding-top: 2rem;
+  border-top: none;
 }
 .eventstitle{
   color: #FFFFFF;
@@ -144,4 +146,13 @@
   height: 45px;
   border: none;
   border-radius: 8px;
+}
+.eventbtn{
+  display: flex;
+  justify-content: center;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+.eventtitle{
+text-align: center;
 }

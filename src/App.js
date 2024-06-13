@@ -7,6 +7,7 @@ import About from "./Components/About";
 import IsiEwu from "./Components/IsiEwu";
 import Location from "./Components/Location";
 import Events from "./Components/Events";
+import Footer from "./Components/Footer";
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
       <IsiEwu />
       <Location />
       <Events />
+      <Footer />
     </>
   );
 }
