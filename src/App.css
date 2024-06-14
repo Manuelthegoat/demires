@@ -85,27 +85,26 @@
   gap: 1rem;
   align-items: center;
   justify-content: center;
-  
 }
-.locationmaindiv{
-  background-color: #003B6F;
+.locationmaindiv {
+  background-color: #003b6f;
   padding: 1rem;
   border-bottom: none;
 }
-.locatitle{
-  color: #FFFFFF;
+.locatitle {
+  color: #ffffff;
   font-family: cursive;
   font-size: 18px;
 }
-.locatext{
-  color: #FFFFFF;
+.locatext {
+  color: #ffffff;
   font-size: 16px;
 }
-.locationbtn{
-  background-color: #FFFFFF;
+.locationbtn {
+  background-color: #ffffff;
   width: 190px;
   height: 35px;
-  color: #003B6F;
+  color: #003b6f;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -113,8 +112,8 @@
   border: none;
   border-radius: 5px;
 }
-.events{
-  background-color: #003B6F;
+.events {
+  background-color: #003b6f;
   display: grid;
   justify-content: center;
   align-items: center;
@@ -122,37 +121,90 @@
   padding-top: 2rem;
   border-top: none;
 }
-.eventstitle{
-  color: #FFFFFF;
+.eventstitle {
+  color: #ffffff;
   font-size: 18px;
 }
-.events-card{
- width: 310px;
- text-align: center;
+.events-card {
+  width: 310px;
+  text-align: center;
 }
-.eventstextdiv{
-  background-color: #04457F;
+.eventstextdiv {
+  background-color: #04457f;
   height: 62px;
   display: flex;
   justify-content: center;
   align-items: center;
 }
-.event-text{
-  color: #FFFFFF;
+.event-text {
+  color: #ffffff;
   font-size: 18px;
 }
-.bookevent{
+.bookevent {
   width: 270px;
   height: 45px;
   border: none;
   border-radius: 8px;
 }
-.eventbtn{
+.eventbtn {
   display: flex;
   justify-content: center;
   padding-top: 1rem;
   padding-bottom: 1rem;
 }
-.eventtitle{
-text-align: center;
+.eventtitle {
+  text-align: center;
+}
+.footer {
+  background-color: #003b6f;
+}
+.input {
+  display: flex;
+  justify-content: center;
+  padding-top: 2rem;
+}
+.input > input {
+  width: 300px;
+  height: 42px;
+  border-radius: 7px 0px 0px 7px;
+  border: none;
+  padding-left: 10px;
+  background-color: #ffffff;
+}
+.accept {
+  width: 50px;
+  height: 42px;
+  border-radius: 0px 7px 7px 0px;
+  border: none;
+  background-color: #ff931e;
+  color: #ffffff;
+}
+.footlinks {
+  display: flex;
+  justify-content: center;
+  gap: 4rem;
+}
+.foottitle {
+  color: #ffffff;
+  padding-top: 3rem;
+}
+.footerlinks {
+  padding-top: 1rem;
+}
+.footerlinks > p {
+  color: #d9d9d9;
+}
+.connect{
+  display: grid;
+  justify-content: center;
+  padding-bottom: 3rem;
+}
+.connecttitle{
+  color: #ffffff;
+  padding-top: 2rem;
+}
+.icons{
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
 }
