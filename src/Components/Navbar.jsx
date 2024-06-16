@@ -13,8 +13,8 @@ function BasicExample() {
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav" >
           <Nav className="me-auto">
-            <Nav.Link href="#home" className="text-white">Home</Nav.Link>
-            <Nav.Link href="#link" className="text-white">Food</Nav.Link>
+            <Nav.Link href="/" className="text-white">Home</Nav.Link>
+            <Nav.Link href="/menu" className="text-white">Menu</Nav.Link>
             <Nav.Link href="#link" className="text-white">Drinks</Nav.Link>
             <Nav.Link href="#link" className="text-white">Reserve</Nav.Link>
            

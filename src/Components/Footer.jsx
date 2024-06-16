@@ -16,17 +16,34 @@ const Footer = () => {
           <div className="footleft">
             <p className="foottitle">ABOUT DE MIRES</p>
             <div className="footerlinks">
-              <p>contact us</p>
-              <p>contact us</p>
-              <p>contact us</p>
+              <p>Contact us</p>
+              <p>About us</p>
+              <p>Careers</p>
+              <p>Our Story</p>
+              <p>Terms and Condition</p>
             </div>
           </div>
           <div className="footright">
             <p className="foottitle">MENU</p>
             <div className="footerlinks">
-              <p>drinks</p>
-              <p>drinks</p>
-              <p>drinks</p>
+              <p>Drinks</p>
+              <p>Our Food</p>
+            </div>
+          </div>
+        </div>
+        <div className="footlinks">
+          <div className="footleft">
+            <p className="foottitle">Our Lounge</p>
+            <div className="footerlinks">
+              <p>DE MIRES Location </p>
+              <p>Privacy Policy</p>
+            </div>
+          </div>
+          <div className="footright">
+            <p className="foottitle">MENU</p>
+            <div className="footerlinks">
+              <p>DE MIRES Location </p>
+              <p>Privacy Policy</p>
             </div>
           </div>
         </div>
