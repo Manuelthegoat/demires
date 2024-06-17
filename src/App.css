@@ -281,3 +281,30 @@
   padding: 1rem;
 
 }
+.findrest{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.findrest>p{
+  color: #FFFFFF;
+  font-size: 18px;
+}
+.findrest>img{
+  width: 100%;
+}
+.drinknavigator{
+  display: flex;
+  justify-content: space-between;
+  padding: 2rem;
+}
+.navtitle{
+  font-size: 15px;
+  color: #FFFFFF;
+}
+.navtitleactive{
+  font-size: 15px;
+  color: #FFFFFF;
+  text-decoration: underline;
+}

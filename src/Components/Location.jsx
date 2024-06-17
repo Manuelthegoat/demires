@@ -9,8 +9,7 @@ const Location = () => {
           <div className="localeft">
             <p className="locatitle">Discover Our Shop Location</p>
             <p className="locatext">
-              488 Nwaturuocha avenue By Pacs Junction Mcc Road IKenegbu Layout
-              Owerri
+              488 Nwaturuocha avenue By Pacs Junction Mcc Road IKenegbu Layout Owerri
             </p>
           </div>
           <div className="locaright">
