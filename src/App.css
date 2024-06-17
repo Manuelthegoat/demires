@@ -286,6 +286,8 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  padding-top: 3rem;
+
 }
 .findrest>p{
   color: #FFFFFF;
