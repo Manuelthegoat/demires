@@ -15,7 +15,7 @@ function BasicExample() {
           <Nav className="me-auto">
             <Nav.Link href="/" className="text-white">Home</Nav.Link>
             <Nav.Link href="/menu" className="text-white">Menu</Nav.Link>
-            <Nav.Link href="#link" className="text-white">Drinks</Nav.Link>
+            <Nav.Link href="/drinks" className="text-white">Drinks</Nav.Link>
             <Nav.Link href="#link" className="text-white">Reserve</Nav.Link>
            
           </Nav>
