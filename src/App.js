@@ -7,9 +7,16 @@ import BasicExample from "./Components/Navbar";
 function App() {
   return (
     <>
-      <BasicExample />
-      <Routing />
-      <Footer />
+      <div className="norms">
+        <h1>
+          NOT AVAILABLE ON THIS DEVICE FOR NOW, <br /> CHECK LATER
+        </h1>
+      </div>
+      <div className="notnorms">
+        <BasicExample />
+        <Routing />
+        <Footer />
+      </div>
     </>
   );
 }

@@ -310,3 +310,22 @@
   color: #FFFFFF;
   text-decoration: underline;
 }
+.norms{
+  display: block;
+}
+.notnorms{
+  display: none;
+}
+@media screen and (max-width: 1000px) {
+  .norms{
+    display: block;
+  }
+}
+@media screen and (max-width: 500px) {
+  .norms{
+    display: none;
+  }
+  .notnorms{
+    display: block;
+  }
+}
