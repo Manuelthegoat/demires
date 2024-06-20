@@ -280,11 +280,13 @@
 .menttitle1 {
   color: #ffffff;
   font-size: 18px;
+  font-family: "Playwrite PL", cursive;
 }
 
 .menttitle2 {
   color: #ffffff;
   font-size: 24px;
+  font-family: "Playwrite PL", cursive;
 }
 
 .menucontent {
@@ -320,6 +322,7 @@
 .cardname > p {
   color: #ffffff;
   font-size: 20px;
+  font-family: "Raleway", sans-serif;
 }
 .drinks {
   background-color: #003b6f;
@@ -335,6 +338,7 @@
 .findrest > p {
   color: #ffffff;
   font-size: 18px;
+  font-family: "Raleway", sans-serif;
 }
 .findrest > img {
   width: 100%;
@@ -347,11 +351,13 @@
 .navtitle {
   font-size: 15px;
   color: #ffffff;
+  font-family: "Raleway", sans-serif;
 }
 .navtitleactive {
   font-size: 15px;
   color: #ffffff;
   text-decoration: underline;
+  font-family: "Raleway", sans-serif;
 }
 .norms {
   display: block;
